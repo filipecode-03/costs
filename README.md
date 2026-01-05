@@ -1,6 +1,9 @@
 # 🪙 Costs
 ​
-Bem vindo ao projeto Costs. Projeto produzido pelo canal Matheus Battisti - Hora de Codar, onde o professor disponibilizou um curso introdutorio sobre react.js, através de um projeto que foi costs
+Bem-vindo ao **Costs**!
+
+O **Costs** é um projeto desenvolvido com base no conteúdo do canal **Matheus Battisti – Hora de Codar**, no qual o professor disponibiliza um curso introdutório de **React.js**.  
+A proposta do curso é apresentar os principais conceitos da biblioteca por meio da construção prática da aplicação **Costs**, focada na organização e no controle de projetos e custos.
 
 ## Layout
 
@@ -10,9 +13,9 @@ Bem vindo ao projeto Costs. Projeto produzido pelo canal Matheus Battisti - Hora
 
 ## 📋 Features
 
-- **Responsive Design:** Adapts to different screen sizes, ensuring a good experience on mobile devices and desktops.
+- **Design Responsivo:** Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e computadores.
 
-- **Smooth Navigation:** Navigation links that lead to specific sections of the page to facilitate usability.​
+- **Navegação Fluida:** Links de navegação que levam a seções específicas da página para facilitar a usabilidade.
 
 ## 🛠️ Technologies Used
 
